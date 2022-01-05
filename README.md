@@ -43,10 +43,10 @@ For CitiBike performance in NYC, this analysis showed that:
 - The majority of trips are less than 30 minutes 
 - Weekday evenings are the busiest in terms of bike checkouts
 
-These discoveries show that we have a target user who largely uses CitiBike during weekday evenings. With this insformation, we can confidently pilot CitiBike in Des Moines and focus marketing efforts on aquiring male subscribers. Knowing our heavy-traffic times, we can prepare our inventory and expect higher bike turnaround rates during the week and in the evenings. This way, we can meet demand where and when we know it will likely be needed most. 
+These discoveries show that we have a target user who largely uses CitiBike during weekday evenings. With this information, we can confidently pilot CitiBike in Des Moines and focus marketing efforts on acquiring male subscribers. Knowing our heavy-traffic times, we can prepare our inventory and expect higher bike turnaround rates during the week and in the evenings. This way, we can meet demand where and when we know it will likely be needed most. 
 
 Once established, we can focus on expanding by marketing to increase not only our female userbase, but to turn one-time users into subscribers by identifying the community's transportation needs. 
 
 ADDITIONAL VISUALIZATIONS FOR COMPANY GROWTH
-1. **Top Subscribers by Age** --> This could give insight if there is a partiular age group who tends to subscribe vs one-time use 
-2. **Top Female Start/Stop Locations** --> This could give insight into whether there are locations where we can advertise the service geared towards females in order to increase female CitiBike usage 
+1. **Top Subscribers by Age** --> This could give insight as to whether there is a partiular age group who tends to subscribe, vs one-time use. 
+2. **Top Female Start/Stop Locations** --> This could give insight into whether there are locations where we can advertise the service, geared towards females, in order to increase female CitiBike usage.
