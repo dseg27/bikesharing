@@ -4,6 +4,9 @@
 The purpose of this analysis was to create a Tableau story with data visualizations to convince investors that a bike-sharing program in Des Moines is a proposal worth investing in.
 Pandas was used to change the datatype of the trip duration parameter of the CSV data, and then seven different data analyses were compiled to create the analysis and presentation.  
 
+**TABLEAU STORY HERE: **
+[link to dashboard](https://public.tableau.com/app/profile/diana.segovia/viz/CitiBike-SuccessinDesMoinesIA/CitiBikePresentation-DesMoines)
+
 
 ## Results
 
